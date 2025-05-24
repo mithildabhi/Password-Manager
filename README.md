@@ -109,11 +109,7 @@ Want to contribute? Follow these steps:
 4. Push to the branch (`git push origin feature-name`)
 5. Open a Pull Request
 
----
 
-## 📄 License
-
-This project is licensed under the MIT License. You are free to use, modify, and distribute this project.
 
 ---
 
