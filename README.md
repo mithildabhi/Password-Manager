@@ -73,8 +73,7 @@ This will read the `data.csv` file and display the first 10 entries using pandas
 
 ## 📸 Screenshot
 
-![Logo](![image](https://github.com/mithildabhi/Password-Manager/blob/main/Screenshot%202025-05-24%20150211.png)
-)
+[![Screenshot 2025-05-24 150211.](![image](https://github.com/mithildabhi/Password-Manager/blob/main/Screenshot%202025-05-24%20150211.png))]
 
 ---
 
